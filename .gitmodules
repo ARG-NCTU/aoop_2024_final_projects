@@ -1,0 +1,33 @@
+[submodule "group12"]
+	path = group12
+	url = https://github.com/Daniel47725812/2024aoop_final_project.git
+[submodule "group4"]
+	path = group4
+	url = https://github.com/hsuanyo7160/group4_project.git
+[submodule "group10"]
+	path = group10
+	url = https://github.com/jameshsu1973/AOOP-Final-Project.git
+[submodule "group3"]
+	path = group3
+	url = https://github.com/zachlian/aoop-proj-g3.git
+[submodule "group2"]
+	path = group2
+	url = https://github.com/lonea2005/oop_final_project.git
+[submodule "group11"]
+	path = group11
+	url = https://github.com/OlafLin24/Aoop-final-project.git
+[submodule "AOOP_final_project"]
+	path = AOOP_final_project
+	url = https://github.com/Lin-shao-an/AOOP_final_project.git
+[submodule "group5"]
+	path = group5
+	url = https://github.com/bensonchen-del/Alienation.git
+[submodule "group8"]
+	path = group8
+	url = https://github.com/lyj87/aoop_final_group8.git
+[submodule "group9"]
+	path = group9
+	url = https://github.com/Lin-shao-an/AOOP_final_project.git
+[submodule "group7"]
+	path = group7
+	url = https://github.com/TTT426/aoop_final_project.git
